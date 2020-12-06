@@ -58,3 +58,8 @@ If there's no issue available currently, you can setup the project locally and f
 
 After choosing an issue and doing changes in the code regarding that, you can open up a Pull Request (PR) to main branch to get your work reviewed and merged!
 
+
+We also have public chat rooms on Slack. Drop by and say hello!
+
+[![](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://join.slack.com/t/nebulaplatform/shared_invite/zt-jixsfnrq-SdncWSwsWKq9puEXcJgHyQ)
+
